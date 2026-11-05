@@ -39,19 +39,19 @@ const educationData: TimelineItem[] = [
     tags: ["Programming", "Software Quality", "System Design"],
     badge: { text: "Current" },
   },
-  {
-    step: "2025",
-    title: "ISTQB Certified Tester Foundation Level",
-    institution: "SLSTB",
-    date: "2025",
-    description: "Completed ISTQB Foundation Level exam with a strong grasp of software testing fundamentals, methodologies, and best practices.",
-    tags: ["Software Testing", "QA Principles", "Test Management"],
-  },
+  // {
+  //   step: "2025",
+  //   title: "ISTQB Certified Tester Foundation Level",
+  //   institution: "SLSTB",
+  //   date: "2025",
+  //   description: "Completed ISTQB Foundation Level exam with a strong grasp of software testing fundamentals, methodologies, and best practices.",
+  //   tags: ["Software Testing", "QA Principles", "Test Management"],
+  // },
 ];
 
 const experienceData: TimelineItem[] = [
   {
-    "step": "2025 - Present",
+    "step": "2025 - 2026",
     "title": "Intern - Quality Engineer",
     "institution": "Wiley Global Technology (PVT) LTD",
     "date": "February 2025 - Present",
