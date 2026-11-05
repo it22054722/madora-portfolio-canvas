@@ -37,7 +37,7 @@ const educationData: TimelineItem[] = [
     date: "2022 - 2026",
     description: "Specializing in Information Technology, gaining expertise in software development, quality assurance, and system architecture.",
     tags: ["Programming", "Software Quality", "System Design"],
-    badge: { text: "Current" },
+    // badge: { text: "Current" },
   },
   // {
   //   step: "2025",
